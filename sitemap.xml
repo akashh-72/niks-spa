@@ -1,62 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Homepage -->
     <url>
         <loc>https://akashh-72.github.io/niks-spa/</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    
-    <!-- Main Pages -->
     <url>
         <loc>https://akashh-72.github.io/niks-spa/about.html</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://akashh-72.github.io/niks-spa/service.html</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://akashh-72.github.io/niks-spa/price.html</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://akashh-72.github.io/niks-spa/contact.html</loc>
-        <lastmod>2024-05-11</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Sub Pages -->
-    <url>
-        <loc>https://akashh-72.github.io/niks-spa/appointment.html</loc>
-        <lastmod>2024-05-11</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://akashh-72.github.io/niks-spa/opening.html</loc>
-        <lastmod>2024-05-11</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://akashh-72.github.io/niks-spa/team.html</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://akashh-72.github.io/niks-spa/testimonial.html</loc>
-        <lastmod>2024-05-11</lastmod>
+        <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://akashh-72.github.io/niks-spa/appointment.html</loc>
+        <lastmod>2024-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://akashh-72.github.io/niks-spa/opening.html</loc>
+        <lastmod>2024-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://akashh-72.github.io/niks-spa/contact.html</loc>
+        <lastmod>2024-03-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset> 

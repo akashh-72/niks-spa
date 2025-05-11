@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 
-Sitemap: https://akashh-72.github.io/niks-spa/sitemap.xml 
+Sitemap: https://akashh-72.github.io/niks-spa/sitemap.xml
+
+# Disallow unnecessary directories
+Disallow: /scss/
+Disallow: /mail/
+Disallow: /lib/
+Disallow: /js/
+Disallow: /css/ 
