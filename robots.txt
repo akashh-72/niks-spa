@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akashh-72.github.io/niks-spa/sitemap.xml 
